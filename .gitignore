@@ -2,5 +2,5 @@ node_modules
 dist
 schema.sql
 schema-good.sql
-.vscode
 .aider*
+config.bat
